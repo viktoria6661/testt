@@ -10,6 +10,10 @@ h1{
     margin-bottom: 100px
 }
 
+.blue {
+    color: rgb(106, 143, 224);
+}
+
 h2 {
     text-align: center;
 }
